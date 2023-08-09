@@ -1,6 +1,7 @@
-# Quick and Easy YouTube Downloader (QD Yt Downloader)
+# Quick and Easy YouTube Downloader with Python Tkinter
 
-This Python application uses the Tkinter library to create a simple YouTube video downloader. It allows you to search for videos and download them by selecting thumbnails.
+This Python application uses the Tkinter library to create a simple YouTube video downloader App. 
+It allows you to search for videos and download them by selecting thumbnails of the video.
 
 ## Features
 
